@@ -19,6 +19,13 @@ public class Main {
     System.out.println(myNum);
     String dog = "Winston";
     System.out.println(dog);
+    int otherNum = 5;
+    System.out.println(otherNum);
+    float myFloatNum = 5.99f;
+    System.out.println(myFloatNum);
+    boolean myBool = true;
+    String myText = "Hello";
+    System.out.println(myText);
   }
 }
 
