@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The goal of this project is to learn the basics of Java through following the [W3Schools Java Tutorial](https://www.w3schools.com/java/java_getstarted.asp).
 
 ## Table of Contents (Optional)
 
