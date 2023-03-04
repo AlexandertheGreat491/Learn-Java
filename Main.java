@@ -16,6 +16,8 @@ public class Main {
     System.out.println(name);
     int myNum = 15;
     System.out.println(myNum);
+    String dog = "Winston";
+    System.out.println(dog);
   }
 }
 
