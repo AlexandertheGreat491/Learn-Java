@@ -8,6 +8,8 @@ public class Main {
     System.out.println(50000);
     System.out.println(3 + 3);
     System.out.println(2 * 5);
+    String name = "John";
+    System.out.println(name);
   }
 }
 // This is a comment
