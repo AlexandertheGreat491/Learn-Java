@@ -1,3 +1,7 @@
+// This is a comment
+/* The code above will print words and answers to
+to mathematical equations. */
+// type variableName = value
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World!");
@@ -10,13 +14,11 @@ public class Main {
     System.out.println(2 * 5);
     String name = "John";
     System.out.println(name);
+    int myNum = 15;
+    System.out.println(myNum);
   }
 }
-// This is a comment
-/* The code above will print words and answers to
-to mathematical equations. */
 
-// type variableName = value
 
 /*
 String- stores text, such as "Hello". String values are surrounded by double quotes.
