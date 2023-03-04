@@ -17,3 +17,11 @@ public class Main {
 to mathematical equations. */
 
 // type variableName = value
+
+/*
+String- stores text, such as "Hello". String values are surrounded by double quotes.
+int- stores integers (whole numbers).
+float - stores floating point numbers with decimals.
+char - stores single characters. example: 'a'
+boolean - stores values with two states: true or false.
+ */
