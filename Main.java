@@ -11,3 +11,5 @@ public class Main {
   }
 }
 // This is a comment
+/* The code above will print words and answers to
+to mathematical equations. */
