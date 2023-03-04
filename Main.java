@@ -26,8 +26,8 @@ public class Main {
     boolean myBool = true;
     String myText = "Hello";
     System.out.println(myText);
-    String name = "Alex";
-    System.out.println("Hello " + name);
+    String me = "Alex";
+    System.out.println("Hello " + me);
   }
 }
 
