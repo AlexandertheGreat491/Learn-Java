@@ -42,6 +42,10 @@ public class Main {
     int f, d, e;
     f = d = e = 50;
     System.out.println(f + d + e);
+    // Good
+    int minutesPerHout = 60;
+    // Ok, but not easy to understand what m actually stands for.
+    int m = 40;
   }
 }
 // All Java variables must be identified with unique names.
