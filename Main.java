@@ -28,7 +28,7 @@ public class Main {
     System.out.println(myText);
     String me = "Alex";
     System.out.println("Hello " + me);
-    String firstName = "Alex";
+    String firstName = "Alex ";
     String lastName = "Van Dyke";
     String fullName = firstName + lastName;
     System.out.println(fullName);
