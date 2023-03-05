@@ -36,6 +36,8 @@ public class Main {
     int y = 6;
     System.out.println(x + y); // Prints the value of x + y
     // declare multiple variables
+    int x = 5, y = 6, z = 50;
+    System.out.println(x + y + z);
   }
 }
 
