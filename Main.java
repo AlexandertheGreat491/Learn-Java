@@ -44,7 +44,7 @@ public class Main {
     System.out.println(f + d + e);
   }
 }
-
+// All Java variables must be identified with unique names.
 
 /*
 String- stores text, such as "Hello". String values are surrounded by double quotes.
