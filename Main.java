@@ -39,9 +39,9 @@ public class Main {
     int a = 5, b = 6, c = 50;
     System.out.println(a + b + c);
     // one value to multiple variables
-    int c, d, e;
-    c = d = e = 50;
-    System.out.println(c + d + e);
+    int f, d, e;
+    f = d = e = 50;
+    System.out.println(f + d + e);
   }
 }
 
