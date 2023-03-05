@@ -38,6 +38,7 @@ public class Main {
     // declare multiple variables
     int a = 5, b = 6, c = 50;
     System.out.println(a + b + c);
+    // one value to multiple variables
   }
 }
 
