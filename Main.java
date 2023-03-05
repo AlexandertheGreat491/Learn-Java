@@ -32,6 +32,9 @@ public class Main {
     String lastName = "Van Dyke";
     String fullName = firstName + lastName;
     System.out.println(fullName);
+    int x = 5;
+    int y = 6;
+    System.out.println(x + y);
   }
 }
 
