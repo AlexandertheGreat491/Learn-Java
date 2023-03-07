@@ -49,7 +49,7 @@ public class Main {
     // byte data type can store whole numbers from -128 to 127
     // Can be used instead of int or other integer types to save memory
     byte yourNum = 100;
-    System.out.println(myNum);
+    System.out.println(yourNum);
   }
 }
 // All Java variables must be identified with unique names.
