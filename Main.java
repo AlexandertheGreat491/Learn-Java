@@ -46,6 +46,9 @@ public class Main {
     int minutesPerHout = 60;
     // Ok, but not easy to understand what m actually stands for.
     int m = 40;
+    // byte data type can store whole numbers from -128 to 127
+    // Can be used instead of int or other integer types to save memory
+    
   }
 }
 // All Java variables must be identified with unique names.
