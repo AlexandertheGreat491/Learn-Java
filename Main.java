@@ -55,6 +55,7 @@ public class Main {
     int herNum = 100000;
     System.out.println(herNum);
     long dogNum = 15000000000L;
+    System.out.println(dogNum);
   }
 }
 // All Java variables must be identified with unique names.
