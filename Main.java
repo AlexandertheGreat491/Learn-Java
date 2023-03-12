@@ -60,6 +60,10 @@ public class Main {
     System.out.println(himNum);
     double appleNum = 19.99d;
     System.out.println(appleNum);
+    float f1 = 35e3f;
+    double d1 = 12E4d;
+    System.out.println(f1);
+    System.out.println(d1);
   }
 }
 // All Java variables must be identified with unique names.
