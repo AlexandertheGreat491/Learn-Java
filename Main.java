@@ -52,6 +52,8 @@ public class Main {
     System.out.println(yourNum);
     short hisNum = 5000;
     System.out.println(hisNum);
+    int herNum = 100000;
+    System.out.println(herNum);
   }
 }
 // All Java variables must be identified with unique names.
