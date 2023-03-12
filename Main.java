@@ -58,6 +58,8 @@ public class Main {
     System.out.println(dogNum);
     float himNum = 5.75f;
     System.out.println(himNum);
+    double appleNum = 19.99d;
+    System.out.println(appleNum);
   }
 }
 // All Java variables must be identified with unique names.
