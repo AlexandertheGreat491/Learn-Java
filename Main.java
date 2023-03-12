@@ -50,6 +50,8 @@ public class Main {
     // Can be used instead of int or other integer types to save memory
     byte yourNum = 100;
     System.out.println(yourNum);
+    short hisNum = 5000;
+    System.out.println(hisNum);
   }
 }
 // All Java variables must be identified with unique names.
