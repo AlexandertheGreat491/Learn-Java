@@ -75,3 +75,5 @@ float - stores floating point numbers with decimals.
 char - stores single characters. example: 'a'
 boolean - stores values with two states: true or false.
  */
+
+ // Boolean values are mostly used for conditional testing.
