@@ -66,7 +66,9 @@ public class Main {
     System.out.println(d1);
     boolean isJavaFun = true;
     boolean isFishTasty = false;
-    
+    System.out.println(isJavaFun); // Outputs true
+    System.out.println(isFishTasty); //Outputs false
+
   }
 }
 // All Java variables must be identified with unique names.
