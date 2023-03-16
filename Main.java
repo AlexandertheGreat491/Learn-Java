@@ -64,6 +64,9 @@ public class Main {
     double d1 = 12E4d;
     System.out.println(f1);
     System.out.println(d1);
+    boolean isJavaFun = true;
+    boolean isFishTasty = false;
+    
   }
 }
 // All Java variables must be identified with unique names.
