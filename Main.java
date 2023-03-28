@@ -80,6 +80,7 @@ public class Main {
      System.out.println(n == 12); // returns true, because n equals 12
      // a boolean expression that I know will return false
      System.out.println(10 == 15);
+     // real life example
   }
 }
 // All Java variables must be identified with unique names.
