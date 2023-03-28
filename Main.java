@@ -88,7 +88,11 @@ public class Main {
     is greater than OR equal to the voting age limit
     of 18. */
     // getting a specific output after values are compared
-    
+    if (myAge >= votingAge) {
+      System.out.println("Old enough to vote!");
+    } else {
+      System.out.println("Not old enough to vote.");
+    }
   }
 }
 // All Java variables must be identified with unique names.
