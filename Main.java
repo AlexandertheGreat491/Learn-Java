@@ -71,6 +71,11 @@ public class Main {
     int w = 10;
     int q =9;
     System.out.println(w > q); // returns true, because 10 is greater than 9
+    /*
+    A boolean expression returns a boolean value of true 
+    or false.
+    Useful for building logic and finding answers.
+     */
   }
 }
 // All Java variables must be identified with unique names.
