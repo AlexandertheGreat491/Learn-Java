@@ -84,6 +84,9 @@ public class Main {
      int myAge = 34;
      int votingAge = 18;
      System.out.println(myAge >= votingAge);
+    /*>= comparison operator to find out if the age 34
+    is greater than OR equal to the voting age limit
+    of 18. */
   }
 }
 // All Java variables must be identified with unique names.
