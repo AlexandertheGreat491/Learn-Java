@@ -70,7 +70,7 @@ public class Main {
     System.out.println(isFishTasty); //Outputs false
     int w = 10;
     int q =9;
-    System.out.println(x > y);
+    System.out.println(w > q);
   }
 }
 // All Java variables must be identified with unique names.
