@@ -77,7 +77,7 @@ public class Main {
     Useful for building logic and finding answers.
      */
      int n = 12;
-     System.out.println(n == 12);
+     System.out.println(n == 12); // returns true, because n equals 12
   }
 }
 // All Java variables must be identified with unique names.
