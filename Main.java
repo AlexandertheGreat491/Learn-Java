@@ -87,6 +87,8 @@ public class Main {
     /*>= comparison operator to find out if the age 34
     is greater than OR equal to the voting age limit
     of 18. */
+    // getting a specific output after values are compared
+    
   }
 }
 // All Java variables must be identified with unique names.
