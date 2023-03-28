@@ -81,6 +81,9 @@ public class Main {
      // a boolean expression that I know will return false
      System.out.println(10 == 15);
      // real life example
+     int myAge = 34;
+     int votingAge = 18;
+     System.out.println(myAge >= votingAge);
   }
 }
 // All Java variables must be identified with unique names.
