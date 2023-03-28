@@ -68,7 +68,9 @@ public class Main {
     boolean isFishTasty = false;
     System.out.println(isJavaFun); // Outputs true
     System.out.println(isFishTasty); //Outputs false
-
+    int x = 10;
+    int y =9;
+    System.out.println(x > y);
   }
 }
 // All Java variables must be identified with unique names.
