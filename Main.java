@@ -105,7 +105,12 @@ public class Main {
       System.out.println("i is greater than e");
     }
     // else statement specifies a block of code to be executed if condition is false
-    
+    int time = 20;
+    if (time > 18) {
+      System.out.println("Good day.");
+    } else {
+      System.out.println("Good evening.");
+    }
   }
 }
 // All Java variables must be identified with unique names.
