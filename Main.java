@@ -93,6 +93,9 @@ public class Main {
     } else {
       System.out.println("Not old enough to vote.");
     }
+    if (20 > 18) {
+      System.out.println("20 is greater than 18");
+    }
   }
 }
 // All Java variables must be identified with unique names.
