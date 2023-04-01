@@ -93,6 +93,9 @@ public class Main {
     } else {
       System.out.println("Not old enough to vote.");
     }
+    /* if specifies a block of code to be executed if a
+    specific condition is true
+     */
     if (20 > 18) {
       System.out.println("20 is greater than 18");
     }
