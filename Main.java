@@ -99,6 +99,11 @@ public class Main {
     if (20 > 18) {
       System.out.println("20 is greater than 18");
     }
+    int i = 20;
+    int e = 18;
+    if (i > e) {
+      System.out.println("i is greater than e");
+    }
   }
 }
 // All Java variables must be identified with unique names.
