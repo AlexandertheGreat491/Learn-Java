@@ -104,6 +104,8 @@ public class Main {
     if (i > e) {
       System.out.println("i is greater than e");
     }
+    // else statement specifies a block of code to be executed if condition is false
+    
   }
 }
 // All Java variables must be identified with unique names.
