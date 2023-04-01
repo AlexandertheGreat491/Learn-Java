@@ -100,13 +100,13 @@ public class Main {
       System.out.println("20 is greater than 18");
     }
     int i = 20;
-    int e = 18;
-    if (i > e) {
-      System.out.println("i is greater than e");
+    int u = 18;
+    if (i > u) {
+      System.out.println("i is greater than u");
     }
     // else statement specifies a block of code to be executed if condition is false
     int time = 20;
-    if (time > 18) {
+    if (time < 18) {
       System.out.println("Good day.");
     } else {
       System.out.println("Good evening.");
