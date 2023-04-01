@@ -111,6 +111,7 @@ public class Main {
     } else {
       System.out.println("Good evening.");
     }
+    // outputs "Good evening."
   }
 }
 // All Java variables must be identified with unique names.
