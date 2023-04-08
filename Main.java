@@ -150,6 +150,8 @@ switch (day) {
     break;
 }
 // Outputs "Thursday" (day 4)
+// break keyword breaks out of the switch block
+// stops the execution of more cose and case testing inside the block
   }
 }
 // All Java variables must be identified with unique names.
