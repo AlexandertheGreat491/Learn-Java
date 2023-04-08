@@ -113,14 +113,15 @@ public class Main {
     }
     // outputs "Good evening."
     // else if statement specifies new condition if first condition is false
-    int time = 22;
-    if (time < 10) {
-      System.out.println("Good morning.");
-    } else if ( time < 18) {
-      System.out.println("Good day.");
-    } else {
-      System.out.println("Good evening.");
-    }
+    // int time = 22;
+    // if (time < 10) {
+    //   System.out.println("Good morning.");
+    // } else if ( time < 18) {
+    //   System.out.println("Good day.");
+    // } else {
+    //   System.out.println("Good evening.");
+    // }
+    
   }
 }
 // All Java variables must be identified with unique names.
