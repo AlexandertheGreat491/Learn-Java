@@ -121,7 +121,9 @@ public class Main {
     // } else {
     //   System.out.println("Good evening.");
     // }
-    
+    int pizza = 20;
+    String result = (pizza < 18) ? "Good day." : "Good evening.";
+    System.out.println(result);
   }
 }
 // All Java variables must be identified with unique names.
