@@ -152,6 +152,19 @@ switch (day) {
 // Outputs "Thursday" (day 4)
 // break keyword breaks out of the switch block
 // stops the execution of more cose and case testing inside the block
+// default keyword specifies some code to run if there is no case match
+int weekend = 4;
+switch (weekend) {
+  case 6:
+    System.out.println("Today is Saturday");
+    break;
+  case 7:
+    System.out.println("Today is Sunday");
+    break;
+  default:
+    System.out.println("Looking forward to the Weekend");
+}
+// Outputs "Looking forward to the Weekend"
   }
 }
 // All Java variables must be identified with unique names.
